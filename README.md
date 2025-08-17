@@ -93,7 +93,7 @@ Below are representative screenshots illustrating the system's user interface an
 
 The user launches the application in Unity and prepares for exam check-in.
 
-![Start Screen](assets/img1.png)
+![Start Screen](img1.png)
 
 ---
 
@@ -101,7 +101,7 @@ The user launches the application in Unity and prepares for exam check-in.
 
 The user is prompted to enter their institutional student ID before proceeding with the verification process.
 
-![Enter ID](assets/img2.png)
+![Enter ID](img2.png)
 
 ---
 
@@ -109,7 +109,7 @@ The user is prompted to enter their institutional student ID before proceeding w
 
 The system recognizes the student, and their personal and academic information is displayed on screen in real time.
 
-![Verified](assets/img3.png)
+![Verified](img3.png)
 
 ---
 
@@ -117,4 +117,4 @@ The system recognizes the student, and their personal and academic information i
 
 If the system fails to identify the student, a clear “Unidentified Student” message is shown, allowing for immediate manual handling.
 
-![Not Verified](assets/img4.png)
+![Not Verified](img4.png)
