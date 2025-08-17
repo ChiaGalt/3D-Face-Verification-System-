@@ -82,3 +82,39 @@ These results demonstrate the effectiveness of 3D geometric features for identit
 ## Conclusion
 
 This project demonstrates the feasibility of integrating RGB-D biometric recognition into academic settings, providing a contactless, interpretable, and extensible system for student identity verification. The combination of 3D landmarks, geometric features, and classical machine learning ensures both robustness and transparency, making it a suitable candidate for deployment in educational environments.
+
+---
+
+## System Screenshots
+
+Below are representative screenshots illustrating the system's user interface and main stages during the face verification process:
+
+### 1. Start Interface
+
+The user launches the application in Unity and prepares for exam check-in.
+
+![Start Screen](assets/img1.png)
+
+---
+
+### 2. Student ID Entry
+
+The user is prompted to enter their institutional student ID before proceeding with the verification process.
+
+![Enter ID](assets/img2.png)
+
+---
+
+### 3. Successful Verification
+
+The system recognizes the student, and their personal and academic information is displayed on screen in real time.
+
+![Verified](assets/img3.png)
+
+---
+
+### 4. Unverified Student
+
+If the system fails to identify the student, a clear “Unidentified Student” message is shown, allowing for immediate manual handling.
+
+![Not Verified](assets/img4.png)
